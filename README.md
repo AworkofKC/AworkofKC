@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AworkofKC
-- 👀 I’m interested in Front end and Back end WebDev and internships
-- 🌱 I’m currently learning HTML, CSS, Java
-- 😄 Pronouns: She, her
-- ⚡ Fun fact: I can play "Scarborough fair" on a keyboard with eyes closed.
+# 👋 Hi, I’m @AworkofKC
 
-<!---
-AworkofKC/AworkofKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I’m pivoting into Cybersecurity with a strong interest in **Security auditing**, compliance, and protecting sensitive data.
+🛠️ Currently working through the Google Cybersecurity Certificate, FreeCodeCamp, and preparing for the CompTIA Security+ exam.  
+📚 Always learning – Python, SQL, HTML,CSS and other security fundamentals.  
+🔐 Interests: SOC Analyst roles, threat detection, ethical hacking, and digital privacy.  
+🖥️ Projects:  
+• **Just Because Express** – A minimalist love note sender for spreading joy, “just because.”  
+• Building a **GitHub-based cybersecurity portfolio** with hands-on case studies and mini tools.
+
+🧠 Fun fact: I can play “Scarborough Fair” on a keyboard—with my eyes closed.  
+🌟 Motto: *In a world full of hate, show love. Just Because.*  
+💬 Let’s connect, collaborate, and make something powerful.
+
+
