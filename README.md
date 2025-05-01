@@ -8,7 +8,7 @@
 • **Just Because Express** – A minimalist love note sender for spreading joy, “just because.”  
 • Building a **GitHub-based cybersecurity portfolio** with hands-on case studies and mini tools.
 
-🧠 Fun fact: I can play “Scarborough Fair” on a keyboard—with my eyes closed.  
+🧠 Fun fact: I love to travel and explore!
 🌟 Motto: *In a world full of hate, show love. Just Because.*  
 💬 Let’s connect, collaborate, and make something powerful.
 
