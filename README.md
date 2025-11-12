@@ -8,16 +8,19 @@
 
 ✨ Beyond tech, I enjoy creating, learning, exploring, and crafting ideas that combine creativity with purpose. I find meaning in simplifying the complicated and making information feel clear and simple.  
 
-🔐 **Interests:**  
+
+🔐# Interests
+
 - Security analysis, alert tuning, IAM, and detection engineering  
 - Building solutions that reduce complexity and increase understanding  
 - Blending logic, design, and creativity in cybersecurity  
 
-🖥️ **Indepentdent Study/Professional Development and Projects:**  
+🖥️# Independent Study / Professional Development and Projects
+
 - [**Cybersecurity Portfolio**](https://github.com/aworkofkc/cybersecurity-portfolio) - A collection of labs, applied learning, and practical experience.  
 - **Just Because Xpressions** - A creative brand centered on positivity, love, and expression through minimalist design.
 
-- ### Web Design
+- **Web Design**
 ** WIN ICU Courier Services** and **WIN ICU Homes Lending Site**  
 *Canva Website Builder 11/12/2025*
 
